@@ -2,6 +2,10 @@
 
 Simple web app where you can talk to then receive immediate text response.
 
+# Demo
+
+![operation demo](assets/demo.gif)
+
 # How to use it
 
 1. After cloning, add the following line to the existing `.env` file.
