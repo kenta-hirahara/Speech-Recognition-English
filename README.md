@@ -1,6 +1,6 @@
 # Speech Recognition Web App
 
-Simple web app where you can talk to then receive immediate text response.
+Simple web app where you can talk to then receive immediate text response using OpenAI API.
 
 # Demo
 
